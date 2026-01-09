@@ -8,6 +8,19 @@
   "threads": [
     {
       "board": "b",
+      "thread_id": "1q56uhl",
+      "url": "https://www.reddit.com/r/FinalFantasy/comments/1q56uhl/my_ff7r_tifa_cosplay/",
+      "title": "My FF7R Tifa Cosplay",
+      "post_count": "1",
+      "image_count": "1",
+      "html_path": "",
+      "html_filename": "",
+      "file_size": "0",
+      "file_modified": "2026-01-04T03:32:53.644Z",
+      "cached_at": "2026-01-04T03:32:53.644Z"
+    },
+    {
+      "board": "b",
       "thread_id": "944152051",
       "url": "https://boards.4chan.org/b/thread/944152051",
       "title": "Girls you jerk 2",
@@ -54046,6 +54059,17 @@
     }
   ],
   "threadImageMapping": {
+    "1q56uhl": [
+      {
+        "sha256": "tifa_placeholder",
+        "local_path": "imageboard/b/1q56uhl/tifa.jpg",
+        "relative_path": "tifa.jpg",
+        "filename": "tifa.jpg",
+        "file_size": "0",
+        "file_modified": "2026-01-04T03:01:22.973Z",
+        "cached_at": "2026-01-04T03:01:22.973Z"
+      }
+    ],
     "944152051": [
       {
         "sha256": "00ad2260d90a765f72d75ff2d1c05d9c1044d61dcaf58bdc43415604edd98ca0",
